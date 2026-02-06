@@ -15,3 +15,4 @@ PLayer 1 = X
 PLayer 2 = o
 :)
 
+s
